@@ -14,4 +14,4 @@ Esse é o firt readme
 
 
 [Link para o Google](https://www.google.com)
-![Link da imagem](https://www.google.com/imgres?q=ciencia%20de%20dados&imgurl=https%3A%2F%2Fjornal.usp.br%2Fwp-content%2Fuploads%2F2020%2F06%2F20200625_00_ciencia_de_dados.jpg&imgrefurl=https%3A%2F%2Fjornal.usp.br%2Funiversidade%2Fpesquisadores-apresentam-aplicacoes-da-ciencia-de-dados-em-evento-na-usp%2F&docid=rOpbZS5mVzqP0M&tbnid=tpML2zcHudMynM&vet=12ahUKEwjHgMH6_quHAxWAIbkGHYXmAZoQM3oECGEQAA..i&w=800&h=420&hcb=2&ved=2ahUKEwjHgMH6_quHAxWAIbkGHYXmAZoQM3oECGEQAA)
+![Link da imagem](https://www.google.com/imgres?q=git&imgurl=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2Fe34ac480-ce44-439a-b28b-1845bd195afe.png&imgrefurl=https%3A%2F%2Fwww.dio.me%2Farticles%2Fqual-a-diferenca-entre-git-github-e-git-bash&docid=AzEBe5kablL0AM&tbnid=_5jy8DRnO6YDqM&vet=12ahUKEwiKhNqNgKyHAxWKFLkGHW8KC5QQM3oECF8QAA..i&w=2483&h=870&hcb=2&ved=2ahUKEwiKhNqNgKyHAxWKFLkGHW8KC5QQM3oECF8QAA
